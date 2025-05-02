@@ -1,0 +1,33 @@
+My steps to setup:
+Make new folder
+cd to folder
+run: dotnet new console
+then run dotnet run
+
+Abstration - Modern art, is a was to make something easy complex or something complex easier. Understand the problem 
+    before writing code. List out what you want it to do.
+Encasplation
+Inheritence
+Polymorphoisms
+
+Parse - used to change varable to int.
+
+Console.BackgroundColor = ConsoleColor.DarkBlue;
+
+
+git add <filename>
+git commit -m "comment"
+git push
+git status
+git pull
+
+string
+int
+float
+boolean = true or false
+double
+
+foreach
+while
+for
+do while

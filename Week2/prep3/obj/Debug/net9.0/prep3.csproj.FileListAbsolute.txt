@@ -1,0 +1,14 @@
+C:\Users\School\Documents\CSE 210\Week2\prep3\bin\Debug\net9.0\prep3.exe
+C:\Users\School\Documents\CSE 210\Week2\prep3\bin\Debug\net9.0\prep3.deps.json
+C:\Users\School\Documents\CSE 210\Week2\prep3\bin\Debug\net9.0\prep3.runtimeconfig.json
+C:\Users\School\Documents\CSE 210\Week2\prep3\bin\Debug\net9.0\prep3.dll
+C:\Users\School\Documents\CSE 210\Week2\prep3\bin\Debug\net9.0\prep3.pdb
+C:\Users\School\Documents\CSE 210\Week2\prep3\obj\Debug\net9.0\prep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\School\Documents\CSE 210\Week2\prep3\obj\Debug\net9.0\prep3.AssemblyInfoInputs.cache
+C:\Users\School\Documents\CSE 210\Week2\prep3\obj\Debug\net9.0\prep3.AssemblyInfo.cs
+C:\Users\School\Documents\CSE 210\Week2\prep3\obj\Debug\net9.0\prep3.csproj.CoreCompileInputs.cache
+C:\Users\School\Documents\CSE 210\Week2\prep3\obj\Debug\net9.0\prep3.dll
+C:\Users\School\Documents\CSE 210\Week2\prep3\obj\Debug\net9.0\refint\prep3.dll
+C:\Users\School\Documents\CSE 210\Week2\prep3\obj\Debug\net9.0\prep3.pdb
+C:\Users\School\Documents\CSE 210\Week2\prep3\obj\Debug\net9.0\prep3.genruntimeconfig.cache
+C:\Users\School\Documents\CSE 210\Week2\prep3\obj\Debug\net9.0\ref\prep3.dll

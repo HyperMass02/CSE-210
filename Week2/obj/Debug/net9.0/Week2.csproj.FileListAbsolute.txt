@@ -1,0 +1,14 @@
+C:\Users\School\Documents\CSE 210\Week2\bin\Debug\net9.0\Week2.exe
+C:\Users\School\Documents\CSE 210\Week2\bin\Debug\net9.0\Week2.deps.json
+C:\Users\School\Documents\CSE 210\Week2\bin\Debug\net9.0\Week2.runtimeconfig.json
+C:\Users\School\Documents\CSE 210\Week2\bin\Debug\net9.0\Week2.dll
+C:\Users\School\Documents\CSE 210\Week2\bin\Debug\net9.0\Week2.pdb
+C:\Users\School\Documents\CSE 210\Week2\obj\Debug\net9.0\Week2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\School\Documents\CSE 210\Week2\obj\Debug\net9.0\Week2.AssemblyInfoInputs.cache
+C:\Users\School\Documents\CSE 210\Week2\obj\Debug\net9.0\Week2.AssemblyInfo.cs
+C:\Users\School\Documents\CSE 210\Week2\obj\Debug\net9.0\Week2.csproj.CoreCompileInputs.cache
+C:\Users\School\Documents\CSE 210\Week2\obj\Debug\net9.0\Week2.dll
+C:\Users\School\Documents\CSE 210\Week2\obj\Debug\net9.0\refint\Week2.dll
+C:\Users\School\Documents\CSE 210\Week2\obj\Debug\net9.0\Week2.pdb
+C:\Users\School\Documents\CSE 210\Week2\obj\Debug\net9.0\Week2.genruntimeconfig.cache
+C:\Users\School\Documents\CSE 210\Week2\obj\Debug\net9.0\ref\Week2.dll

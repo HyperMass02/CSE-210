@@ -1,0 +1,14 @@
+C:\Users\School\Documents\CSE 210\Week2\prep5\obj\Debug\net9.0\prep5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\School\Documents\CSE 210\Week2\prep5\obj\Debug\net9.0\prep5.AssemblyInfoInputs.cache
+C:\Users\School\Documents\CSE 210\Week2\prep5\obj\Debug\net9.0\prep5.AssemblyInfo.cs
+C:\Users\School\Documents\CSE 210\Week2\prep5\obj\Debug\net9.0\prep5.csproj.CoreCompileInputs.cache
+C:\Users\School\Documents\CSE 210\Week2\prep5\bin\Debug\net9.0\prep5.exe
+C:\Users\School\Documents\CSE 210\Week2\prep5\bin\Debug\net9.0\prep5.deps.json
+C:\Users\School\Documents\CSE 210\Week2\prep5\bin\Debug\net9.0\prep5.runtimeconfig.json
+C:\Users\School\Documents\CSE 210\Week2\prep5\bin\Debug\net9.0\prep5.dll
+C:\Users\School\Documents\CSE 210\Week2\prep5\bin\Debug\net9.0\prep5.pdb
+C:\Users\School\Documents\CSE 210\Week2\prep5\obj\Debug\net9.0\prep5.dll
+C:\Users\School\Documents\CSE 210\Week2\prep5\obj\Debug\net9.0\refint\prep5.dll
+C:\Users\School\Documents\CSE 210\Week2\prep5\obj\Debug\net9.0\prep5.pdb
+C:\Users\School\Documents\CSE 210\Week2\prep5\obj\Debug\net9.0\prep5.genruntimeconfig.cache
+C:\Users\School\Documents\CSE 210\Week2\prep5\obj\Debug\net9.0\ref\prep5.dll
