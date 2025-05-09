@@ -31,6 +31,5 @@
         Console.WriteLine(summary3);
         Console.WriteLine(summary4);
         Console.WriteLine("Press any key to exit.");
-        Console.ReadKey();
-    }
+        Console.ReadKey();    }
 }
