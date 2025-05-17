@@ -1,0 +1,15 @@
+C:\Users\School\Documents\CSE 210\Week4\journel\obj\Debug\net9.0\journel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\School\Documents\CSE 210\Week4\journel\obj\Debug\net9.0\journel.AssemblyInfoInputs.cache
+C:\Users\School\Documents\CSE 210\Week4\journel\obj\Debug\net9.0\journel.AssemblyInfo.cs
+C:\Users\School\Documents\CSE 210\Week4\journel\obj\Debug\net9.0\journel.csproj.CoreCompileInputs.cache
+C:\Users\School\Documents\CSE 210\Week4\journel\obj\Debug\net9.0\journel.sourcelink.json
+C:\Users\School\Documents\CSE 210\Week4\journel\bin\Debug\net9.0\journel.exe
+C:\Users\School\Documents\CSE 210\Week4\journel\bin\Debug\net9.0\journel.deps.json
+C:\Users\School\Documents\CSE 210\Week4\journel\bin\Debug\net9.0\journel.runtimeconfig.json
+C:\Users\School\Documents\CSE 210\Week4\journel\bin\Debug\net9.0\journel.dll
+C:\Users\School\Documents\CSE 210\Week4\journel\bin\Debug\net9.0\journel.pdb
+C:\Users\School\Documents\CSE 210\Week4\journel\obj\Debug\net9.0\journel.dll
+C:\Users\School\Documents\CSE 210\Week4\journel\obj\Debug\net9.0\refint\journel.dll
+C:\Users\School\Documents\CSE 210\Week4\journel\obj\Debug\net9.0\journel.pdb
+C:\Users\School\Documents\CSE 210\Week4\journel\obj\Debug\net9.0\journel.genruntimeconfig.cache
+C:\Users\School\Documents\CSE 210\Week4\journel\obj\Debug\net9.0\ref\journel.dll

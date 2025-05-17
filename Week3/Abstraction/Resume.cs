@@ -15,7 +15,7 @@ public class Resume
             job.Display();
         }
     }
-
+ 
     public void CreateResume()
     {
         Resume resume = new Resume();
